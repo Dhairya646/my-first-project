@@ -1,3 +1,2 @@
-# my-first-project
-changing this also wow
+trying to make a project using html,css and javascript
 
